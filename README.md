@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronnortonbaker
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning data science at College of Charleston
+- 🌱 I’m currently learning biology and data science at College of Charleston
 - 📫 How to reach me: aaronnortonbaker@gmail.com
 
 <!---
